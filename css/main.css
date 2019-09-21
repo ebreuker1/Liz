@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+  height: auto;
+}
+header {
+	width: auto;
+	height: 100px;
+	display: inline-block;
+	}
+header h1 {
+	float: left;
+	font-family: 'Karla', sans-serif;
+  clear: both;
+}
+header nav {
+	float: right;
+	display: inline-block;
+	list-style-type: none;
+	}
+header ul {
+	list-style-type: none;
+}
+header li {
+	display: inline-block;
+	padding: 10px;
+}
+#about {
+	background-color: #ffffcc;
+	width: 100%;
+	height: auto;
+}
+#about h2 {
+text-align: center;
+padding-top: 20px;
+}
+#about img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
+#about p {
+	text-align: center;
+	padding: 20px;
+	line-height: 30px;
+}
